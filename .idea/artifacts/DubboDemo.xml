@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DubboDemo">
+    <output-path>$PROJECT_DIR$/out/artifacts/DubboDemo</output-path>
+    <root id="root" />
+  </artifact>
+</component>
